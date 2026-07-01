@@ -19,7 +19,9 @@ Python bindings for controlling Minecraft with a virtual keyboard/mouse and read
 ## Build
 
 ```bash
-cargo build --release
+maturin develop
+# or
+maturin build --release
 ```
 
 ## Python API
@@ -58,4 +60,3 @@ bot.send_mouse_move(10, -5)
 
 - `left`
 - `right`
-
