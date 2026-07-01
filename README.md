@@ -14,6 +14,7 @@ Python bindings for controlling Minecraft with a virtual keyboard/mouse and read
 
 - Linux
 - Access to `/dev/uinput`
+- `maturin`
 - A Python environment with `pyo3`/extension support
 
 ## Build
