@@ -1,6 +1,6 @@
 # rmc-env
 
-Python bindings for controlling Minecraft with a virtual keyboard/mouse and reading the game window as screenshots.
+Python bindings for controlling Minecraft bot with a virtual keyboard/mouse and reading the game window as screenshots.
 
 ## Features
 
